@@ -5,6 +5,5 @@
 - 📫 How to reach me at (315)-767-6685
 
 <!---
-FasciNated132/FasciNated132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I like github because it is a way for me to oganize my life
 --->
